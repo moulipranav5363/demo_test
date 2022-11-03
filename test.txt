@@ -1,3 +1,5 @@
 This is the first document for the test folder.
 
 This is the updated line.
+
+This is another updated line.
